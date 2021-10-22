@@ -3,4 +3,4 @@
 
 https://github.com/alexanderkolchenko/ping-IP-array/tree/master/src/main/java/test
 
-JavaFx, Thread
+JavaFx, многопоточность 
